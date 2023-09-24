@@ -1,0 +1,26 @@
+{
+  "name": "personal-budget1",
+  "version": "1.0.0",
+  "description": "The path to NGInx main folder:\r /usr/share/nginx/html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "sravani": "echo Sravani"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sravani1915/personal-budget.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sravani1915/personal-budget/issues"
+  },
+  "homepage": "https://github.com/Sravani1915/personal-budget#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
